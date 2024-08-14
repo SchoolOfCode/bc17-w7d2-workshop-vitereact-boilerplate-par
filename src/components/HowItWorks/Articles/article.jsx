@@ -1,4 +1,4 @@
-import styles from './Article.module.css';
+import styles from './article.module.css';
 
 const Article = ({ imageSrc, altText, title, description }) => {
     return (

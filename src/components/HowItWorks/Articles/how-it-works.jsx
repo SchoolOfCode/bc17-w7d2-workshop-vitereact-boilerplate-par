@@ -1,4 +1,4 @@
-export default HowItWorksSection;
+import Article from "./article.jsx"
 
 const HowItWorksSection = () => {
 
@@ -43,3 +43,4 @@ const HowItWorksSection = () => {
   );
 };
 
+export default HowItWorksSection;
